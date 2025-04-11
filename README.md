@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hey! I'm **Caio Peter**
 
-<!--
-**cai0baa/cai0baa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍🎓 About Me  
+- 🎓 Computer Engineering student at **UFPel**  
+- 🚀 Constantly exploring new technologies and real-world applications that can make a positive impact  
+- 🌐 Deeply passionate about **Web3** and the **crypto world**, actively engaged in its development  
+- 🧩 Experienced in **business process optimization**, identifying inefficiencies and crafting innovative solutions  
+- 🤖 Enthusiast of **intelligent automation**, **AI**, and **system integration** to boost productivity and scalability  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Get in Touch  
+- 📧 Email: [caiogpeter@hotmail.com](mailto:caiogpeter@hotmail.com)  
+- 💬 Discord: **cai0ba_**  
+- 🔗 LinkedIn: [linkedin.com/in/caio-gastal-peter-a5090835b](https://www.linkedin.com/in/caio-gastal-peter-a5090835b/)
