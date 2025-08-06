@@ -8,6 +8,6 @@
 - 🤖 Enthusiast of **intelligent automation**, **AI**, and **system integration** to boost productivity and scalability  
 
 ### 📫 Get in Touch  
-- 📧 Email: [caiogpeter@hotmail.com](mailto:cgpeter@inf.ufpel.edu.br)  
+- 📧 Email: [cgpeter@inf.ufpel.edu.br](mailto:cgpeter@inf.ufpel.edu.br)  
 - 💬 Discord: **cai0ba_**  
 - 🔗 LinkedIn: [linkedin.com/in/caio-gastal-peter-a5090835b](https://www.linkedin.com/in/caio-gastal-peter-a5090835b/)
